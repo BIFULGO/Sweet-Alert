@@ -1,0 +1,49 @@
+
+body{
+ background-color: rgba(214, 214, 214, 0.801);  
+  
+}
+.barra {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:rgb(0, 0, 0);
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+.titulo{
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(131, 127, 127);
+    margin-top: 0%;
+}
+.sub{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(251, 255, 3);
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.tigre{
+    border-radius: 20%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.568);
+}
+
+.telesena{
+    border-radius: 20%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.568);
+}
+
+.coelho{
+    border-radius: 20%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.568);
+}
+.tourinho{
+    border-radius: 20%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.568);
+}
